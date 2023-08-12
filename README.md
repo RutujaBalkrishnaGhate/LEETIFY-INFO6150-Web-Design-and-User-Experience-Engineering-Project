@@ -1,8 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/0wrsx4Jb)
 # LEETIFY 
 
-#Project Presentation Link : <a href="https://northeastern-my.sharepoint.com/:v:/g/personal/lenka_s_northeastern_edu/ERYBmhhP1MRMg9z7AS9W1cQBPXfbjBcfm2h5z5N6G6hsHA">Link</a>
-
 ## Project Description
 Leetify is an online platform that provides a collection of coding challenges to help developers prepare for technical interviews. The platform offers a wide range of problems that cover various data structures and algorithms, such as arrays, linked lists, trees, graphs, dynamic programming, and more.
 Leetify can be used by many software engineers, developers, and students who want to enhance their problem-solving and coding skills. It can also be commonly used as a tool for technical interviews, where candidates are often asked to solve coding problems similar to those found on Leetify.
