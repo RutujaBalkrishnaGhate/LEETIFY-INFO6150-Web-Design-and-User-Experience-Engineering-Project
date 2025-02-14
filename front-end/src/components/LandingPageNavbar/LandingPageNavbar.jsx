@@ -27,9 +27,9 @@ function LandingPageNavbar() {
               <a href="/PremiumPage">
                 <span className="premium">Premium</span>
               </a>
-              <a href="/signin">
+              <NavLink to="/signin">
                 <span>Sign in</span>
-              </a>
+              </NavLink>
               <NavLink to="/signup">
                 <span>Sign up</span>
               </NavLink>
